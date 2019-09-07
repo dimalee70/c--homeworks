@@ -33,7 +33,7 @@
 
 *Для подробной информации перейдите по <a href="https://docs.microsoft.com/ru-ru/dotnet/core/tutorials/with-visual-studio-code" target="_blank">ссылке</a>.*
 
-####Задачи 
+## Задачи 
 
 1. Задания к [первому уроку](/lab1_1/). Типы данных. Первая программа на c#.
     + [Автор программы](/lab1_1/1.1.1/)
