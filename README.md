@@ -29,7 +29,7 @@
 5. Код пишите в правом окне вместо строки `Console.WriteLine ("Hello World");;`.
 6. Посмотреть результат выполнения файла можно, написав команду `$ dotnet run`. Результат появится в нижней части окна.
 7. После окончания работы заархивируйте папку с название лабораторной работы в zip архив.
-8. В классе на сайте <a href="https://classroom.google.com/c/MjM5MzEwOTA3NTJa" target="_blank">classroom.google</a> в поле комментария к домашней работе вставьте zip архив проета и отправьте работу на проверку.
+8. В классе на сайте <a href="https://classroom.google.com/c/MjM5MzEwOTA3NTJa" target="_blank">classroom.google</a> в поле комментария к домашней работе вставьте zip архив проекта и отправьте работу на проверку.
 
 *Для подробной информации перейдите по <a href="https://docs.microsoft.com/ru-ru/dotnet/core/tutorials/with-visual-studio-code" target="_blank">ссылке</a>.*
 
